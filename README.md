@@ -1,5 +1,5 @@
 - Hi, I’m @Zadoque10, Welcome to my Github profile 👋.
-- 🌱 I’m currently learning C#, SQL, JavaScript, Git, HTML, CSS, Git...
+- 🌱 I’m currently learning C#, API's, SQL, JavaScript, Git, HTML, CSS, Git...
 
 ### How to reach me:
 
